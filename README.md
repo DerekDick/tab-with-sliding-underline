@@ -1,29 +1,9 @@
-# tab-with-sliding-underline
+# Build your own tab with sliding underline in Vue
 
-## Project setup
-```
-npm install
-```
+## Technologies
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Class and Style Binds in Vue](https://vuejs.org/v2/guide/class-and-style.html)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Result
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./screenshots/screenshot.png)
